@@ -1,69 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7C9F9257-4CB7-4EF6-AA1B-FEF602A750BC}|09_DatabaseProject\\09_DatabaseProject.csproj|c:\\users\\esind\\desktop\\csharpegitimkampi\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C9F9257-4CB7-4EF6-AA1B-FEF602A750BC}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF3E3086-F981-4785-A342-96A66145799A}|08_Methods\\08_Methods.csproj|C:\\Users\\esind\\Desktop\\CSharpEgitimKampi\\08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF3E3086-F981-4785-A342-96A66145799A}|08_Methods\\08_Methods.csproj|solutionrelative:08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7311D974-6493-4A67-80BA-E4312116E476}|07_ForeachLoop\\07_ForeachLoop.csproj|C:\\Users\\esind\\Desktop\\CSharpEgitimKampi\\07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7311D974-6493-4A67-80BA-E4312116E476}|07_ForeachLoop\\07_ForeachLoop.csproj|solutionrelative:07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
-              "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
-              "RelativeToolTip": "09_DatabaseProject\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAzwCYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:29:10.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi\\08_Methods\\Program.cs",
-              "RelativeDocumentMoniker": "08_Methods\\Program.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi\\08_Methods\\Program.cs",
-              "RelativeToolTip": "08_Methods\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwI4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:18:46.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
-              "RelativeDocumentMoniker": "07_ForeachLoop\\Program.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
-              "RelativeToolTip": "07_ForeachLoop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:37:48.436Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
