@@ -1,7 +1,7 @@
 # CSharpEgitimKampi
 ## Bu repository Murat Yücedağ'ın Youtube üzerinde verdiği .Net derslerindeki practise projelerini içermektedir.
 
-# 101 Modulü
+# 101 Modülü
 ### Bu modülde C# temel konularını öğrenip örnek uygulamalarla bilgilerimizi kullanacağımız projeler yaptık.
 
 ---
@@ -29,7 +29,7 @@
 ## ✅ 08_Methods Projesi
 ### Bu projede methodları ve method türlerini öğrendik. Geriye değer döndüren ve döndürmeyen methodları örneklerle inceledik. Sınav sonuçlarını değerlendiren bir programı string veri tipi döndüren bir method yazarak örnek üzerinde çalıştık.
 
-# 201 Modulü
+# 201 Modülü
 ###  Bu modülde C# orta seviye konularını öğrenip örnek uygulamalarla bilgilerimizi kullanacağımız projeler yaptık.
 
 ---
